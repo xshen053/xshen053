@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xiaxi Shen
-- 👀 I’m interested in Computer System, Architecture and High Performance Computing
+- 👀 I’m interested in Software Design and Development, Computer System, and Architecture
 - 🌱 I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington
 <!---
 - 💞️ I’m looking to collaborate on ...
