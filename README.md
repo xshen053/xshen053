@@ -1,7 +1,10 @@
 - Hi, I’m Xiaxi Shen
-- I’m interested in Software Design and Development, Computer System, and Computer Architecture
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington
-- During my spare time, I like reading books, hiking, playing sports and playing the piano.
+- I’m interested in Software Design and Development, Machine Learning, Computer System, etc.
+- I am particularly drawn to Machine Learning because of its potential to revolutionize many fields, from healthcare to finance.
+- Information technology is changing the world. I feel lucky to witness this amazing process as a participant.
+- My ultimate goal is to work for a tech company that is at the forefront of innovation, and I am actively seeking internships and networking opportunities to gain more experience in the field. I am trying to make contribution to open-source community and 
+- During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪
 - Recently, cherry blossoms at UW. Really enjoy it!
 - ![image](https://user-images.githubusercontent.com/97472036/231074682-cd026b69-892d-4944-9232-06bddd32efe8.png)
 
