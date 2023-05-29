@@ -1,6 +1,7 @@
 - Hi, I’m Xiaxi Shen
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington.
-- I recently found my interest in Infrastrucutre/Systems/Pipelines stuff.
+- With a strong foundation in Computer Science and Electrical Engineering, I possess a deep understanding of these fields and a fervent desire to expand my knowledge. 
+- Recently, I have developed a keen interest in Infrastructure/Systems/Pipelines, recognizing their significance in the rapidly evolving world of information technology.
 - Information technology is changing the world. I feel lucky to witness this amazing process as a participant.
 - My ultimate goal is to work for a tech company that is at the forefront of innovation. I am actively seeking internships and networking opportunities to gain more experience in the field, and as a first step, I am trying to make contributions to the open-source community.
 - During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪
