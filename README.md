@@ -7,7 +7,7 @@
 - During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪
 <!-- - The cherry blossoms at UW are in full bloom and it's absolutely breathtaking. I'm really enjoying the colorful scenery!
 ![image](https://user-images.githubusercontent.com/97472036/231074682-cd026b69-892d-4944-9232-06bddd32efe8.png) -->
-
+- During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪
 
 <!---
 - 💞️ I’m looking to collaborate on ...
