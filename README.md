@@ -1,4 +1,5 @@
-- Hi, I’m Xiaxi Shen
+🏫
+<!--- Hi, I’m Xiaxi Shen
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington.
 - With a strong foundation in Computer Science and Electrical Engineering, I possess a deep understanding of these fields and a fervent desire to expand my knowledge. 
 - Recently, I have developed a keen interest in Infrastructure/Systems/Pipelines, recognizing their significance in the rapidly evolving world of information technology.
@@ -7,7 +8,7 @@
 - During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪
 <!-- - The cherry blossoms at UW are in full bloom and it's absolutely breathtaking. I'm really enjoying the colorful scenery!
 ![image](https://user-images.githubusercontent.com/97472036/231074682-cd026b69-892d-4944-9232-06bddd32efe8.png) -->
-- During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪
+<!-- During my spare time, I like reading books, hiking, playing sports and playing the piano. I am currently taking a **tennis** course. 🎾💪 -->
 
 <!---
 - 💞️ I’m looking to collaborate on ...
