@@ -1,4 +1,8 @@
 🏫
+
+[![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats)
+
+
 <!--- Hi, I’m Xiaxi Shen
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington.
 - With a strong foundation in Computer Science and Electrical Engineering, I possess a deep understanding of these fields and a fervent desire to expand my knowledge. 
