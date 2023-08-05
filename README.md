@@ -1,6 +1,6 @@
 🏫
 
-[![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats)
+<!--- [![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats) -->
 
 
 <!--- Hi, I’m Xiaxi Shen
