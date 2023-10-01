@@ -1,7 +1,10 @@
-🏫
 
 <!--- [![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats) -->
 
+Current checklist
+- refactor my previous c++ project, to-do-list.
+- review data structure and algorithm (solve 80 problems by the end of this year.
+- survive in distributed system lab this quarter.
 
 <!--- Hi, I’m Xiaxi Shen
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington.
