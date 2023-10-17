@@ -5,6 +5,7 @@ Current checklist
 - refactor my previous c++ project, to-do-list.
 - review data structure and algorithm (solve 80 problems by the end of this year.
 - survive in distributed system lab this quarter.
+- building an interpreter using 3 different languages (Java, C, Python)
 
 <!--- Hi, I’m Xiaxi Shen
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington.
