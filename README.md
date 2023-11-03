@@ -4,6 +4,7 @@
 Current checklist
 - refactor my previous c++ project, to-do-list.
 - review data structure and algorithm (solve 80 problems by the end of this year.
+- `46/80` now
 - survive in distributed system lab this quarter.
 - building an interpreter using 3 different languages (Java, C, Python)
 
