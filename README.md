@@ -1,14 +1,14 @@
 
 <!--- [![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats) -->
-<!---
+
 Current checklist
-- refactor my previous c++ project, to-do-list.
 - review data structure and algorithm (solve 80 problems by the end of this year.
-- `46/80` now
+- `55/80` now
 - survive in distributed system lab this quarter.
 - building an interpreter using 3 different languages (Java, C, Python)
--->
-![](https://www.icegif.com/wp-content/uploads/2022/01/icegif-254.gif)
+![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
+<!-- ![](https://www.icegif.com/wp-content/uploads/2022/01/icegif-254.gif) -->
 
 <!--- Hi, I’m Xiaxi Shen
 - I’m currently a graduate student in Electrical and Computer Engineering major at University of Washington.
