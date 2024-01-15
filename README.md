@@ -1,7 +1,6 @@
 
 <!--- [![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats) -->
 
-Winter 2024 Bucket:
 
 ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
