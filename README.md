@@ -1,10 +1,11 @@
 
 <!--- [![Xiaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xshen053)](https://github.com/xshen053/github-readme-stats) -->
 
-
+<!--- 
 ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 ![](https://media0.giphy.com/media/fUSX3E4imAn9WHwrCV/giphy.gif?cid=ecf05e47z6vihtd9whfvqcvshswgn22w7vujxh15b8r5iohl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+-->
 
 <!-- ![](https://www.icegif.com/wp-content/uploads/2022/01/icegif-254.gif) -->
 
